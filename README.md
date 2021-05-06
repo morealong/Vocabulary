@@ -1,6 +1,5 @@
-# 2022考研生词本(from May 6st 10：14 am
-## 20个一组
-### list 1
+# 2022考研生词本 | from May 6st 10：14 am | 20个一组
+## List 1
 list 1|释义|衍生
 :-:|:-|:-
 weigh
@@ -24,4 +23,3 @@ vicinity
 deviate 
 collision
 renovate
-
