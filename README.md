@@ -12,7 +12,7 @@ plague|瘟疫，灾祸
 intricate|错综复杂的
 blur|模糊，污迹；使模糊，玷污|blurry 模糊的 &nbsp; blurred 模糊不清的
 successive
-stall
+stall|使停转；货摊
 sarcastic
 align
 exquisite
