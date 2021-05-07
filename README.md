@@ -63,7 +63,31 @@ conspicuous|显眼的，显著的
 stumble|跌倒，绊倒
 loyalty|忠诚
 tragic|悲惨的
-eligible|
+eligible|符合条件的，有资格的
+concession|妥协，让步
+shove|猛推
+insidious|隐伏的，暗中有害的
+binding|捆绑；有约束力的，捆绑的
+--------------------------------------------------------------
+List 4|释义|衍生
+:-:|:-|:-
+gratitude|感激，感谢|名词
+monotonous|单调乏味的
+costume|服饰套装
+apparel|衣服，服装|指在商场里卖的衣服
+strenuous|费劲费力的
+temperament|气质，性情
+expertise|专门知识，技能
+spin|旋转
+arrogant|傲慢的
+stalk|跟踪
+brim|边缘
+
+
+
+
+
+
 
 
 
