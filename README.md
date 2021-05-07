@@ -81,7 +81,7 @@ expertise|专门知识，技能
 spin|旋转
 arrogant|傲慢的
 stalk|跟踪
-brim|边缘
+brim|边缘；满溢，充满
 
 
 
