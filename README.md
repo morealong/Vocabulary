@@ -78,10 +78,20 @@ apparel|衣服，服装|指在商场里卖的衣服
 strenuous|费劲费力的
 temperament|气质，性情
 expertise|专门知识，技能
-spin|旋转
+spin|旋转(n.v.)|turn round quickly
 arrogant|傲慢的
 stalk|跟踪
 brim|边缘；满溢，充满
+span|跨度，范围；持续，跨越
+trivial|不重要的，琐碎的|not important, serious; not worth considering
+proposed|所推荐的，被提议的|★★阅读常考
+dynamic|动态的，有活力的；动力，动态
+intuitive|直觉的，有直觉力的
+intuitively|直觉上（地），直观上
+
+
+
+
 
 
 
