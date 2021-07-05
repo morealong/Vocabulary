@@ -92,9 +92,14 @@ potent|强有力的，有效力的|on body or mind
 supposed|假定的，所谓的|generally supposed （一般/人们/普遍）认为的
 primarily|主要地，基本上|=chiefly (the most important part)
 --------------------------------------------------------------
+## ★★红宝书开始
 List 5|释义|衍生
 :-:|:-|:-
-
+interior|内部/景/地/陆/政/务|adj.
+humble|卑贱的，低下的，恭顺的；使...变得卑微
+extent|程度，长度，范围
+express|特快的
+exposure|
 
 
 
