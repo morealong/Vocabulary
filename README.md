@@ -84,10 +84,16 @@ stalk|跟踪
 brim|边缘；满溢，充满
 span|跨度，范围；持续，跨越
 trivial|不重要的，琐碎的|not important, serious; not worth considering
-proposed|所推荐的，被提议的|★★阅读常考
+proposed|所推荐的，被提议的|★★阅读常考 proposed doing something/It is porposed to do something
 dynamic|动态的，有活力的；动力，动态
 intuitive|直觉的，有直觉力的
 intuitively|直觉上（地），直观上
+potent|强有力的，有效力的|on body or mind
+supposed|假定的，所谓的|generally supposed （一般/人们/普遍）认为的
+primarily|主要地，基本上|=chiefly (the most important part)
+--------------------------------------------------------------
+List 5|释义|衍生
+:-:|:-|:-
 
 
 
