@@ -99,10 +99,18 @@ interior|内部/景/地/陆/政/务|adj.
 humble|卑贱的，低下的，恭顺的；使...变得卑微
 extent|程度，长度，范围
 express|特快的
-exposure|
-
-
-
+exposure|遭受，面临|通常危险或不快
+credit|信任，相信，把…归于|n.v. &nbsp; (incredible, credible)
+create|引起，造成
+court|设法获得，企图得到；招致，酿成
+attend|出席；照料；伴随|attend to &nbsp; 照料，处理；专心于，致力于
+attribute|本性，属性，特征|attribute to 把...归因于
+attack|开始，着手
+protocol|礼仪；条约，协议，科学实验计划，医疗方案
+proximate|最接近的，最邻近的
+proposition|主张，建议；命题
+polish|使完美，改进；完美，优雅
+property|财产；特性
 
 
 
