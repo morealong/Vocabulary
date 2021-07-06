@@ -115,7 +115,16 @@ integral|完整的，整体的
 integrate|使完全，使完善
 institute|研究院，学院，学会；建立，设立，制定，开始|学
 institution|机构，团体，协会；习俗，惯例|团体
-
+List 6|释义|衍生
+process|加工，处理
+procession|队列，行列
+proclaim|宣告，宣布
+probe|探索；探测器
+proceeding|行动，进程
+dominant|支配的,统治的，占优势的
+convene|召集，召开，聚集|会议有关
+convey|传递，运送；表达，传达
+assume|认为，以为，假设
 
 
 
