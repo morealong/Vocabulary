@@ -111,7 +111,10 @@ proximate|最接近的，最邻近的
 proposition|主张，建议；命题
 polish|使完美，改进；完美，优雅
 property|财产；特性
-
+integral|完整的，整体的
+integrate|使完全，使完善
+institute|研究院，学院，学会；建立，设立，制定，开始|学
+institution|机构，团体，协会；习俗，惯例|团体
 
 
 
