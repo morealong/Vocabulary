@@ -117,6 +117,7 @@ institute|研究院，学院，学会；建立，设立，制定，开始|学
 institution|机构，团体，协会；习俗，惯例|团体
 --------------------------------------------------------------
 List 6|释义|衍生
+:-:|:-|:-
 process|加工，处理
 procession|队列，行列
 proclaim|宣告，宣布
@@ -126,6 +127,18 @@ dominant|支配的,统治的，占优势的
 convene|召集，召开，聚集|会议有关
 convey|传递，运送；表达，传达
 assume|认为，以为，假设
+assumed|假装的，假定的
+reputation|名声，名望|中性词，可好可坏；live up to one's reputation 名副其实
+refute|驳斥，驳倒，否认...正确性
+researcher|研究人员|！！和写论文、报告的人不一样
+council|理事会，委员会
+counsel|劝告，忠告|n.v.
+dramatic|戏剧性的；激动人心的，引人注目的
+intelligible|可理解的，明白易懂的，清楚的
+assured|有保证的，有自信的，有把握的
+succeed|接替，继任，继承；成功，达到目的
+successive|连续的，相继的
+
 
 
 
