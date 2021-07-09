@@ -83,7 +83,7 @@ arrogant|傲慢的
 stalk|跟踪
 brim|边缘；满溢，充满
 span|跨度，范围；持续，跨越
-trivial|不重要的，琐碎的|not important, serious; not worth considering
+trivial|不重要的，琐碎的|not important, serious; not worth considering trivia  无关紧要的事物
 proposed|所推荐的，被提议的|★★阅读常考 proposed doing something/It is porposed to do something
 dynamic|动态的，有活力的；动力，动态
 intuitive|直觉的，有直觉力的
@@ -138,11 +138,41 @@ intelligible|可理解的，明白易懂的，清楚的
 assured|有保证的，有自信的，有把握的
 succeed|接替，继任，继承；成功，达到目的
 successive|连续的，相继的
-
-
-
-
-
+--------------------------------------------------------------
+List 7|释义|衍生
+:-:|:-|:-
+succession|连续；接替，连任；一系列|n.
+suffice|足够，有能力；使满足|v.
+resilient|有适应力的，可迅速恢复的；有弹性的
+resort|求助，诉诸
+prominent|突出的，显著的，接触的，著名的
+promise|预示
+promote|提拔，提升
+progressive|逐渐的，愈来愈严重的
+conceal|隐藏，隐瞒，隐匿
+resultant|必然发生的，作为结果发生的
+noble|富贵的，贵族的，高尚的|a noble family 贵族家庭 born nobly 出生高贵 nobility 高贵，高尚，贵族
+extinct|（火）熄灭了的，（生命、希望）消亡了的，灭绝的
+due|欠款的，应付的；应得的；到期的
+avail|利用某事物；有助于，有利于
+crucial|决定性的，关键性的
+auxiliary|辅助的，附属的
+subsidiary|辅助的，附属的|与主要事物并存
+vulnerable|易受伤的，易受攻击的|be vulnerable to sb./sth. = be susceptible sb./sth.
+twist|拧，扭转；歪曲，曲解|n.v. twisted 反常的，变态的 twister 骗子，奸诈的人
+tumble|跌倒，急剧下降，打滚|n.v.
+--------------------------------------------------------------
+List 7|释义|衍生
+:-:|:-|:-
+swell|膨胀，鼓起，上涨，增加|shrink 收缩
+swarm|一大群，蜂群；充满，云集
+swear|咒骂，诅咒
+swing|摇摆，转身/动；剧变，大变
+surveillance|监视
+route|路线，路程，途径
+routine|常规的，例行的；常规
+extravagant|奢侈的，浪费的，过分的，过度的
+cumulative|累积的，累计的
 
 
 
