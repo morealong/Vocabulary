@@ -151,23 +151,27 @@ promote|提拔，提升
 progressive|逐渐的，愈来愈严重的
 conceal|隐藏，隐瞒，隐匿
 resultant|必然发生的，作为结果发生的
-noble|富贵的，贵族的，高尚的|a noble family 贵族家庭 born nobly 出生高贵 nobility 高贵，高尚，贵族
+noble|富贵的，贵族的，高尚的|a noble family 贵族家庭
+nobly|崇高地，高贵地，华丽地|born nobly 出生高贵
+nobility|高贵，高尚，贵族
+notably|尤其，显著地，特别，很大程度上
 extinct|（火）熄灭了的，（生命、希望）消亡了的，灭绝的
 due|欠款的，应付的；应得的；到期的
 avail|利用某事物；有助于，有利于
 crucial|决定性的，关键性的
 auxiliary|辅助的，附属的
 subsidiary|辅助的，附属的|与主要事物并存
+--------------------------------------------------------------
+List 8|释义|衍生
+:-:|:-|:-
 vulnerable|易受伤的，易受攻击的|be vulnerable to sb./sth. = be susceptible sb./sth.
 twist|拧，扭转；歪曲，曲解|n.v. twisted 反常的，变态的 twister 骗子，奸诈的人
 tumble|跌倒，急剧下降，打滚|n.v.
---------------------------------------------------------------
-List 7|释义|衍生
-:-:|:-|:-
 swell|膨胀，鼓起，上涨，增加|shrink 收缩
 swarm|一大群，蜂群；充满，云集
 swear|咒骂，诅咒
 swing|摇摆，转身/动；剧变，大变
+sawy|影响，使摇动，摇摆
 surveillance|监视
 route|路线，路程，途径
 routine|常规的，例行的；常规
