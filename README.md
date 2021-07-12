@@ -160,23 +160,36 @@ due|欠款的，应付的；应得的；到期的
 avail|利用某事物；有助于，有利于
 crucial|决定性的，关键性的
 auxiliary|辅助的，附属的
-subsidiary|辅助的，附属的|与主要事物并存
+**subsidiary**|**辅助的，附属的**|与主要事物并存
 --------------------------------------------------------------
 List 8|释义|衍生
 :-:|:-|:-
 vulnerable|易受伤的，易受攻击的|be vulnerable to sb./sth. = be susceptible sb./sth.
 twist|拧，扭转；歪曲，曲解|n.v. twisted 反常的，变态的 twister 骗子，奸诈的人
-tumble|跌倒，急剧下降，打滚|n.v.
+**tumble**|跌倒，急剧下降，打滚|n.v.
 swell|膨胀，鼓起，上涨，增加|shrink 收缩
 swarm|一大群，蜂群；充满，云集
 swear|咒骂，诅咒
 swing|摇摆，转身/动；剧变，大变
-sawy|影响，使摇动，摇摆
-surveillance|监视
+sway|影响，使摇动，摇摆
+**surveillance**|**监视**
 route|路线，路程，途径
 routine|常规的，例行的；常规
 extravagant|奢侈的，浪费的，过分的，过度的
 cumulative|累积的，累计的
+situate|使位于，坐落于；使联系
+skeleton|骨骼，框架，骨架
+sketchy|粗略的，不完备的
+site|使坐落在
+ceaseless|不停的，不断的
+boundless|无限的，无止境的
+certificated|合格的
+--------------------------------------------------------------
+List 9|释义|衍生
+:-:|:-|:-
+mediate|调停，调解；促成（协议）
+elaborate|精心计划的，详尽的，复杂的；详述，精心制作
+abolition|废除
 
 
 
